@@ -16,10 +16,7 @@ Apply Feature selection techniques to all the features of the data set
 ### STEP 4
 Save the data to the file
 # CODE
-```
-Developed By:Sanjay G
-Register no:212222230131
-```
+
 ```
 import pandas as pd
 import numpy as np
